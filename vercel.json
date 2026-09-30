@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "http://node52.lunes.host:3004/$1"
+    }
+  ]
+}
